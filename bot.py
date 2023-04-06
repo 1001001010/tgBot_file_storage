@@ -10,7 +10,7 @@ import keyboards as key
 # FILES
 
 settings =  {
-    'token': '5780480955:AAFy1tgXWCLoPaGHgF__AquVH5yp2pg8sc4', # TOKEN
+    'token': '', # TOKEN
     'name': ''
 }
 
